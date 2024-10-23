@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+서강대학교 유일 퀀트금융학회 QUANTIFI입니다.
+
+Homepage : https://quantifisogang.imweb.me/ <br>
+Notion : https://quantifi.notion.site/Quantifi-Sogang-ba508d57d91a461da15ce72b865d9343 <br>
+Instagram : @quantifi.official <br>
+
 <!--
 **QuantifiSogang/QuantifiSogang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
