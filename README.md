@@ -6,6 +6,8 @@ Homepage : https://quantifisogang.imweb.me/ <br>
 Notion : https://quantifi.notion.site/Quantifi-Sogang-ba508d57d91a461da15ce72b865d9343 <br>
 Instagram : @quantifi.official <br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuantifiSogang&show_icons=true&theme=transparent)
+
 <!--
 **QuantifiSogang/QuantifiSogang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
